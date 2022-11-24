@@ -1,0 +1,56 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+categories:
+  - test-management
+description:
+  it:
+    features:
+      - testing
+    genericName: Test component RvC
+    longDescription: |
+      test component voor publiccode.yaml om te testen of OpenCatalogi de
+      publiccode oppikttest component voor publiccode.yaml om te testen of
+      OpenCatalogi de publiccode oppikttest component voor publiccode.yaml om te
+      testen of OpenCatalogi de publiccode oppikttest component voor
+      publiccode.yaml om te testen of OpenCatalogi de publiccode oppikttest
+      component voor publiccode.yaml om te testen of OpenCatalogi de publiccode
+      oppikttest component voor publiccode.yaml om te testen of OpenCatalogi de
+      publiccode oppikttest component voor publiccode.yaml om te testen of
+      OpenCatalogi de publiccode oppikttest component voor publiccode.yaml om te
+      testen of OpenCatalogi de publiccode oppikttest component voor
+      publiccode.yaml om te testen of OpenCatalogi de publiccode oppikttest
+      component voor publiccode.yaml om te testen of OpenCatalogi de publiccode
+      oppikt
+    shortDescription: test component voor publiccode.yaml
+developmentStatus: concept
+it:
+  conforme:
+    gdpr: false
+    lineeGuidaDesign: false
+    misureMinimeSicurezza: false
+    modelloInteroperabilita: false
+  countryExtensionVersion: '0.2'
+  piattaforme:
+    anpr: false
+    cie: false
+    pagopa: false
+    spid: false
+legal:
+  license: EUPL-1.2
+  repoOwner: Ronald van Cortenberghe
+localisation:
+  availableLanguages:
+    - nl
+  localisationReady: false
+maintenance:
+  type: none
+name: Test Component RvC
+platforms:
+  - web
+releaseDate: '2022-11-30'
+softwareType: configurationFiles
+softwareVersion: '1'
+url: 'https://github.com/RonaldvCortenberghe/testComp_RvC'
