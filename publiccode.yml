@@ -6,7 +6,7 @@ publiccodeYmlVersion: '0.2'
 categories:
   - test-management
 description:
-  it:
+  nl:
     features:
       - testing
     genericName: Test component RvC
@@ -26,7 +26,7 @@ description:
       oppikt
     shortDescription: test component voor publiccode.yaml
 developmentStatus: concept
-it:
+nl:
   conforme:
     gdpr: false
     lineeGuidaDesign: false
