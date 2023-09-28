@@ -25,6 +25,8 @@ description:
       component voor publiccode.yaml om te testen of OpenCatalogi de publiccode
       oppikt
     shortDescription: test component voor publiccode.yaml
+    screenshots:
+    - testcomponent.png
 developmentStatus: concept
 nl:
   conforme:
